@@ -32,6 +32,4 @@ Main Menu:
 
 Display options: Add Event, Display Monthly Calendar, List Events, Exit.
 Loop to handle user input and perform corresponding actions.
-User Interaction:
-
-Allow the user to input choices and call the respective functions.
+User Interaction:Allow the user to input choices and call the respective functions.
